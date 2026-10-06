@@ -1,0 +1,41 @@
+body{
+background-color: grey;  
+color: white;
+font-family: arial;
+margin:0;
+padding: 10px;
+text-align:left;
+}
+h1{
+font-size: 50px; 
+color:saddlebrown;
+}
+.tagline{
+margin-top: -30px; 
+margin-right: -20px;
+font-size:20px;
+font-weight:bold;
+letter-spacing:0px;
+}
+a{
+color:burlywood;  
+text-decoration: none;
+margin:0 05px;
+}
+a:hover {
+color:blue;  
+}
+h2{
+color:wheat;
+font-size: 27px;
+}
+p {
+font-size:18px;  
+}
+nav {
+text-align: center;  
+}
+h3 {
+color:wheat;  
+font-size: 27px;
+}
