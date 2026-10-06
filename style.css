@@ -39,3 +39,10 @@ h3 {
 color:wheat;  
 font-size: 27px;
 }
+textarea {
+width:280px;
+height:100px;
+}
+button {
+margin-top: 25px;  
+}
